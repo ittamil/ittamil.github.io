@@ -1,2 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://ittamil.github.io/atom.xml?redirect=false&start-index=1&max-results=500
